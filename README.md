@@ -10,6 +10,7 @@
   </a>
 </h1>
 
+
 <!-- 个人标签 -->
 <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
   <img src="https://img.shields.io/badge/重庆人文科技学院-软件工程2026届-0066CC?style=flat-square&logo=graduation-cap" />
@@ -22,7 +23,11 @@
 ## 🚀 技术专长
 
 <div align="center">
-  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,java,go,html" />
+  </a>
+</p>
 ### 🧰 技术栈
   
 | 类别              | 技术                                                                                                |
