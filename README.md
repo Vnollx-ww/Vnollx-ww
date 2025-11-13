@@ -50,49 +50,6 @@
 - 🤖 近期在探索 AI 应用集成与LLM工程化实践
 - 🏆 蓝桥杯国家级一等奖、团队程序设计天梯赛国家级二等奖
 
-## 🌟 精选项目
-
-<div align="left">
-
-### 🏅 [Vnollx 在线评测系统](https://github.com/Vnollx-ww/VnollxOnlineJudge)
-> 基于 SpringBoot + Redis + RabbitMQ 构建的多语言在线判题系统
-
-[![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)](https://)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://)
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)](https://)
-
-✅ 代码沙箱安全隔离  
-✅ 实时排行榜与竞赛功能  
-✅ 已用于校级程序设计竞赛  
-
----
-
-### 🤖 [Crk-AI 智能对话](https://github.com/Vnollx-ww/AiChat)
-> 集成 DeepSeek-R1 大模型的智能对话系统
-
-[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://)
-[![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white)](https://)
-[![LLM](https://img.shields.io/badge/-LLM-FF6B6B)](https://)
-
-✅ 实时流式响应  
-✅ Markdown 渲染支持  
-✅ 多轮对话上下文记忆  
-
----
-
-### ☁️ [Vnollx 网盘系统](https://github.com/Vnollx-ww/Vnollx)
-> 基于 Gin + MinIO + Kafka 的分布式云存储系统
-
-[![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go&logoColor=white)](https://)
-[![MinIO](https://img.shields.io/badge/-MinIO-2496ED?logo=minio&logoColor=white)](https://)
-[![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)](https://)
-
-✅ 文件分片上传  
-✅ 实时消息通知  
-✅ 微服务架构设计  
-
-</div>
-
 ## 📊 技术影响力
 
 <div align="center">
