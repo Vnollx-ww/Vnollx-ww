@@ -1,91 +1,78 @@
 <div align="center">
-
-<!-- 顶部大图 Banner -->
-![Banner](https://blog-1300497937.cos.ap-nanjing.myqcloud.com/go_edu_golang/go_basic_20.png)
-
-<!-- 动态打字机效果（增强版） -->
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=3498DB&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Vnollx+%F0%9F%91%8B;Backend+Architect+%7C+Tech+Enthusiast;Java%2FGo+%7C+Distributed+Systems;Building+Scalable+%26+Resilient+Systems" alt="Typing Animation">
-  </a>
-</h1>
-
-
-<!-- 个人标签 -->
-<div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/重庆人文科技学院-软件工程2026届-0066CC?style=flat-square&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/竞赛获奖-蓝桥杯国一%2F天梯赛国二-FF6B6B?style=flat-square&logo=trophy" />
-  <img src="https://img.shields.io/badge/GitHub-Contributor-22C55E?style=flat-square&logo=github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vnollx-ww&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" width="100%" />
 </div>
-
-</div>
-
-## 🚀 技术专长
-
-<div align="center">
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,java,go,html" />
-  </a>
-</p>
-### 🧰 技术栈
-  
-| 类别              | 技术                                                                                                |
-|-------------------|-----------------------------------------------------------------------------------------------------|
-| **核心语言**      | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **后端框架**      | ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/SpringCloud-3498DB?style=flat-square&logo=springcloud&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **数据存储**      | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-2496ED?style=flat-square&logo=minio&logoColor=white) |
-| **消息队列**      | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6B6B?style=flat-square&logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
-| **基础设施**      | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-</div>
-
-## 👨‍💻 关于我
-
-> "从代码到架构，从问题到解决方案，我享受构建可靠系统的每一步。"
-
-- 🔭 专注后端开发，热衷于分布式系统、高并发架构和性能优化
-- 🧠 擅长用 Java 生态（Spring Boot/Cloud）和 Go 构建可靠服务
-- 🔍 喜欢钻研底层原理，活跃于开源社区
-- 🤖 近期在探索 AI 应用集成与LLM工程化实践
-- 🏆 蓝桥杯国家级一等奖、团队程序设计天梯赛国家级二等奖
-
-## 📊 技术影响力
-
-<div align="center">
-
-<!-- GitHub统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Vnollx-ww&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vnollx-ww&theme=radical" alt="GitHub Streak" width="45%" />
-
-<br><br>
-
-<!-- 语言统计 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnollx-ww&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="60%" />
-
-<br><br>
-
-<!-- GitHub活动图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vnollx-ww&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
-
-</div>
-
-## 🤝 与我联系
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/Vnollx-ww" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:2720741614@qq.com">
-    <img src="https://img.shields.io/badge/QQ邮箱-2720741614@qq.com-166FE5?style=for-the-badge&logo=qq" alt="QQ邮箱"/>
-  </a>
-  <a href="weixin://dl/chat?Vnollx">
-    <img src="https://img.shields.io/badge/微信-Vnollx-7BB32E?style=for-the-badge&logo=wechat" alt="微信"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+Vnollx%22)%3B;fmt.Println(%22Architecting+Scalable+Systems...%22);>_Loading+Distributed+Core+Modules...;>_Status:+ONLINE+%E2%9C%85" alt="Typing Animation" />
   </a>
 </div>
 
-<!-- 底部装饰 -->
 <br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <table border="0" width="90%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🛠️ Tech Stack & Arsenal</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=java,go,rust,c&theme=dark" /><br>
+          <img src="https://skillicons.dev/icons?i=spring,gin,grpc,graphql&theme=dark" style="margin-top: 10px;"/><br>
+          <img src="https://skillicons.dev/icons?i=mysql,redis,kafka,elasticsearch&theme=dark" style="margin-top: 10px;"/><br>
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux&theme=dark" style="margin-top: 10px;"/><br>
+          <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" style="margin-top: 10px;"/>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+         <h3 align="center">👨‍💻 Root@Vnollx:~#</h3>
+         <pre style="font-family: 'JetBrains Mono', monospace; background-color: #0D1117; color: #C9D1D9; border-radius: 10px; padding: 20px; text-align: left; border: 1px solid #30363D;">
+struct <span style="color: #FF7B72;">Engineer</span> {
+    name: <span style="color: #A5D6FF;">"Vnollx"</span>,
+    role: <span style="color: #A5D6FF;">"Backend Architect"</span>,
+    focus: [<span style="color: #79C0FF;">"Distributed Systems"</span>, <span style="color: #79C0FF;">"High Concurrency"</span>],
+    likes: [<span style="color: #79C0FF;">"Java/Go"</span>, <span style="color: #79C0FF;">"Open Source"</span>, <span style="color: #79C0FF;">"Coffee"</span>],
+    achievements: {
+        National_First: <span style="color: #79C0FF;">"Lanqiao Cup"</span>,
+        National_Second: <span style="color: #79C0FF;">"GPLT"</span>
+    }
+}
+<span style="color: #8B949E;">// "Code is poetry, architecture is engineering."</span></pre>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+<h3 align="center">📊 GitHub Metrics Dashboard</h3>
+<div align="center">
+  
+  <a href="https://github.com/Vnollx-ww">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vnollx-ww&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnollx-ww&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide=html,css,scss" height="150" alt="languages graph" />
+  </a>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vnollx-ww&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=58A6FF" width="94%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br><br>
+  <a href="https://github.com/Vnollx-ww">
+    <img src="https://img.shields.io/badge/Connect-GitHub-white?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="mailto:2720741614@qq.com">
+    <img src="https://img.shields.io/badge/Contact-Email-black?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Chat-WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
+  </a>
+</div>
+
+<br>
